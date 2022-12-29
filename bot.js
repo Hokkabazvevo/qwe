@@ -31,6 +31,6 @@ client.login(process.env.TOKEN || ayarlar.token)
 /*
 ############################################################################
 #                           Discord Bot Altyapı v14                         #
-#               https://github.com/EmirhanSarac/discord-altyapi-bot         #
+#               https://discord.gg/tbfXJyX6fm                               #
 ############################################################################
 */
